@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-04T11:57:41 IST" name="Default suite" finished-at="2025-08-04T11:57:54 IST" duration-ms="13149">
+    <groups>
+    </groups>
+    <test started-at="2025-08-04T11:57:41 IST" name="Default test" finished-at="2025-08-04T11:57:54 IST" duration-ms="13149">
+      <class name="com.Test.webDriverMethod">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Test.webDriverMethod@7d20d0b]" started-at="2025-08-04T11:57:41 IST" name="setup" finished-at="2025-08-04T11:57:51 IST" duration-ms="10251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.Test.webDriverMethod@7d20d0b]" started-at="2025-08-04T11:57:51 IST" name="loginTest" finished-at="2025-08-04T11:57:54 IST" duration-ms="2828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.Test.webDriverMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
